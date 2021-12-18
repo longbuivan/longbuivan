@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently full-time working on Data Engineer Role
 - :memo: I read and write a blog on my page [Long Bui's Homepage](https://longbuivan.github.io)
 - 🌱 I love to learn new things 
-- 👯 Good player in a team, love to communicate and build up network
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about my experience share with me your experiences, especialy data engineering :tada:
 - 📫 How to reach me: longbuivan95@gmail.com
-- ⚡ Fun fact: go, travel, write, guitar
+- ⚡ Fun fact: Travel in Covid-19 Pandemic and Work from another City, go every where have enough :computer: + :battery: + :rice: + :sleeping: for working :relieved:
