@@ -2,7 +2,7 @@
 # 📓 Hi, I'm Long.
 
 <div style="text-align: center;">
-  <p>Here are recent thoughts... <a style="color: #5d9aaa;" href="/brain/">→ see it</a></p>
+  <p>Here are recent thoughts... <a style="color: #5d9aaa;" href="https:longdatadevlog.com/brain/">→ see it</a></p>
 </div>
 
 ### I build and document the data systems for bringing data to decentralized data architecture
