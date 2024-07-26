@@ -1,11 +1,18 @@
-### Hi there 👋
-I keep a list of my highlights of data development logs. For more projects, click [repo](https://github.com/longbuivan)
 
-1. **Technical consulting and architecting Data**: working with data as full-time/contract jobs
-2. **Development OpenDataSolution**: building a data toolkit for data engineering [StringX](https://stringx-opendata.vercel.app/category/start-here)
-3. **Data Developer Course**: teaching Data Engineering and data Development, bringing fundamental knowledge to developers [course](https://github.longdatadevlog.com/blog/data-developer-course/)
-4. **Technical blogging**: Visit [blogs](https://blogs.longdatadevlog.com) , [talk](https://www.youtube.com/@longbui.engineering)
-5. **Maintain Data Engineering Handbook**: helping to organize and search your questions in daily basic [handbook](https://de-book.longdatadevlog.com)
+# 📓 Hi, I'm Long.
 
-- technical blogs on [Long Bui's Homepage](https://blogs.longdatadevlog.com/blog)
-- 📫 How to reach me: longbuivan95@gmail.com
+<div style="text-align: center;">
+  <p>Here are recent thoughts... <a style="color: #5d9aaa;" href="/brain/">→ see it</a></p>
+</div>
+
+### I build and document the data systems for bringing data to decentralized data architecture
+
+- **Development Open Data Solution**: building a data toolkit for data engineering [StringX](https://stringx.longdatadevlog/category/start-here), enable data with [DataPods](https://datapods-oss.vercel.app)
+- **Technical Blogs**: reaching readers with technical posts at [Blogs](/blogs/) and on [Talk & Share](https://youtube.com/@longdatadevlog/)
+- **Maintain Data Engineering [Books](/books)**: helping others organize and search daily data engineering questions [Data Engineering Handbook](https://de-book.longdatadevlog.com) and breaking data systematic problems with [Solid Data Foundations](https://sdf-book.longdatadevlog.com)
+
+![FocusMode](/assets/BlankApp.png)
+
+I write and talk to reinforce the [self-learning](/brain/self-taught). Trying to explain things better and simpler, and use [knowledge package management](/brain/create-a-second-brain-with-para/) to shape everything firmly relevant with [Mapping of Contents (MoC)](/tags).
+
+In case you're interested, reach out to me at social icons below.
