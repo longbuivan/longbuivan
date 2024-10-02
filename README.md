@@ -11,7 +11,7 @@
 - **Technical Blogs**: reaching readers with technical posts at [Blogs](/blogs/) and on [Talk & Share](https://youtube.com/@longdatadevlog/)
 - **Maintain Data Engineering [Books](/books)**: helping others organize and search daily data engineering questions [Data Engineering Handbook](https://de-book.longdatadevlog.com) and breaking data systematic problems with [Solid Data Foundations](https://sdf-book.longdatadevlog.com)
 
-![FocusMode](BlankApp.png)
+![Knowledge-Grpah](knowledge_graph_brain.png)
 
 I write and talk to reinforce the [self-learning](/brain/self-taught). Trying to explain things better and simpler, and use [knowledge package management](/brain/create-a-second-brain-with-para/) to shape everything firmly relevant with [Mapping of Contents (MoC)](/tags).
 
